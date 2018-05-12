@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6339
     wikipedia: http://en.wikipedia.org/wiki/Robert_Benchley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15851#Love-Conquers-All
 gutenberg_issued: '2005-05-18'
 gutenberg_type: Text
 identifiers:
